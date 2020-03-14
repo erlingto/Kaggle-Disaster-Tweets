@@ -1,2 +1,7 @@
 # Kaggle-Disaster-Tweets
-NLP with Disaster Tweets. LogRes model for identifying fake disaster tweets.
+Kaggle Project Disaster Tweets. Logistic Regression model for identifying fake disaster tweets with some (low level) NLP.
+
+Link : https://www.kaggle.com/c/nlp-getting-started
+
+Score:  0.72699
+
